@@ -13,5 +13,5 @@ defaultproperties
 	bWaitingToStartMatch = true
 	
 	PlayerControllerClass = class'UDKParsaGame.ParsaPlayerController'
-	DefaultPawnClass = class'UDKParsaGame.ParsaPawn
+	DefaultPawnClass = class'UDKParsaGame.ParsaPawn'
 }
